@@ -92,7 +92,7 @@ form:hover {
 /* MAIN SECTION */
 
 #main-section {
-     background-image: url(src/IMDB-BG.jpg);
+     background-image: url(IMDB-BG.jpg);
      /* background-size: cover; */
      background-attachment: scroll;
      min-height: 89vh;
